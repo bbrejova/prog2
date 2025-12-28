@@ -51,7 +51,21 @@ weeks:
     items:
       - {type: notes, file: P7, name: 'Prednáška 7'}
       - {type: text, name: 'Cvičenia 7'}
-      
+ 
+  - date: '7.4. &ndash; 13.4.'
+    content: 'Grafy a grafové algoritmy III'
+    items:
+      - {type: notes, file: P8, name: 'Prednáška 8'}
+      - {type: text, name: 'Cvičenia 8'}
+      - {type: text, name: '<em>Test č. 3</em>'}
+      - {type: notes, file: Riesenia_test_3, name: 'Riešenia úloh z testu'}
+
+  - date: '14.4. &ndash; 20.4.'
+    content: 'Lambda výrazy, JavaFX I'
+    items:
+      - {type: notes, file: P9, name: 'Prednáška 9'}
+      - {type: text, name: 'Cvičenia 9'}
+
   - date: '21.4. &ndash; 27.4.'
     content: 'Veľkonočný pondelok'
     items:
