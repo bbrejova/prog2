@@ -1,0 +1,7 @@
+---
+title: Pravidlá
+---
+
+* TOC
+{:toc}
+
