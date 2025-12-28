@@ -52,10 +52,6 @@ weeks:
       - {type: notes, file: P7, name: 'Prednáška 7'}
       - {type: text, name: 'Cvičenia 7'}
 
-  - date: '21.4. &ndash; 27.4.'
-    content: 'Veľkonočný pondelok'
-      - {type: text, name: 'Cvičenia 10'}
-
   - date: '28.4. &ndash; 4.5.'
     content: 'JavaFX II'
     items:
