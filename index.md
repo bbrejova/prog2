@@ -24,9 +24,5 @@ utorok, 9:50 &ndash; 11:20, miestnosť I-H6
 
 {% include semester.html %}
 
-{% if false %}
-
-
-{% endif %}
 
 
