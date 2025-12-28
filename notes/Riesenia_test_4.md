@@ -1,5 +1,5 @@
 ---
-title: Riešenia testu č  4
+title: Riešenia testu č. 4
 ---
 
 * TOC
