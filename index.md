@@ -2,7 +2,7 @@
 title: Prednášky
 ---
 
-<div>
+<div  markdown="1">
 ## Kontakt na vyučujúcich
 * [Peter Kostolányi](http://www.dcs.fmph.uniba.sk/~kostolanyi/) (prednášky a cvičenia):<br/>
 miestnosť M-227<br/>
